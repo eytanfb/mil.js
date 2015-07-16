@@ -1,0 +1,25 @@
+{
+  "name": "mil.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eytanfb/mil.js",
+  "authors": [
+    "Eytan Anjel <eytanfb@gmail.com>"
+  ],
+  "description": "mil.js is a library to simplify input field interactions in forms",
+  "main": "src/field.js",
+  "dependencies": [
+    "jquery
+  ],
+  "keywords": [
+    "html form",
+    "js form interaction",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
