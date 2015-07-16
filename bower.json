@@ -7,6 +7,9 @@
   ],
   "description": "mil.js is a library to simplify input field interactions in forms",
   "main": "src/field.js",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
   "keywords": [
     "form",
     "input",
@@ -19,8 +22,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jquery": "~2.1.4"
-  }
+  ]
 }
